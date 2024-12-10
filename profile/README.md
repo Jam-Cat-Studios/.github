@@ -4,6 +4,7 @@ We are Jam Cat Studios LLC, a small remote independent game studio. The majority
 
 Currently working on our first title, an arcade inspired beat 'em up with a twist we're excited to share soon!
 
+Our first title is steadily approaching alpha! We should be able to share more publically within the coming months!
 
 <!--
 
