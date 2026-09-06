@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Jam Cat Studios LLC, a small remote independent game studio. The majority of our staff are comprised of college students at Rensselaer Polytechnic Institute as well as members from Hofstra. Our mission is to create fun and enjoyable games filled with passion.
+We are Jam Cat Studios LLC, a small remote independent game studio. The majority of our staff are comprised of current and former college students at Rensselaer Polytechnic Institute. Our mission is to create fun and enjoyable games filled with passion.
 
 Currently working on our first title, an arcade inspired beat 'em up with a twist we're excited to share soon!
 
